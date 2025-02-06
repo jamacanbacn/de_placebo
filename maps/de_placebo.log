@@ -1,0 +1,2555 @@
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 09:20:44
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+2 prefabs found in de_placebo...
+
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+
+0 prefabs successfully parsed in de_placebo
+
+2 prefabs unsuccessfully parsed in de_placebo:
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+Finished sorting the data
+
+Getting prop data...
+Finished getting prop data
+
+Number of level heights found: 1
+
+Generating radars...
+
+Generating radar level 0...
+Excluding removes areas...
+Excluding erasing removes areas
+Drawing paths...
+Finished drawing paths
+Generating radar level 0 complete
+
+Saving radar level 'default'...
+Saving radar level 'default' complete
+
+Generating radars complete
+
+Generating txt
+Generating txt complete
+
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 09:25:20
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 09:25:52
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+2 prefabs found in de_placebo...
+
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+
+0 prefabs successfully parsed in de_placebo
+
+2 prefabs unsuccessfully parsed in de_placebo:
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+Finished sorting the data
+
+Getting prop data...
+Finished getting prop data
+
+No meshes (ignoring remove meshes). Aborting.
+No overview position values found, most likely due to finding no path meshes to draw. Aborting.
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 09:43:43
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+2 prefabs found in de_placebo...
+
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+
+0 prefabs successfully parsed in de_placebo
+
+2 prefabs unsuccessfully parsed in de_placebo:
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+Finished sorting the data
+
+Getting prop data...
+Finished getting prop data
+
+Number of level heights found: 1
+
+Generating radars...
+
+Generating radar level 0...
+Excluding removes areas...
+Excluding erasing removes areas
+Drawing paths...
+Finished drawing paths
+Generating radar level 0 complete
+
+Saving radar level 'default'...
+Saving radar level 'default' complete
+
+Generating radars complete
+
+Generating txt
+Generating txt complete
+
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 10:04:56
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+2 prefabs found in de_placebo...
+
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+Prefab filepath does not exist, skipping: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\.vmap
+
+0 prefabs successfully parsed in de_placebo
+
+2 prefabs unsuccessfully parsed in de_placebo:
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+Finished sorting the data
+
+Getting prop data...
+Finished getting prop data
+
+Number of level heights found: 1
+
+Generating radars...
+
+Generating radar level 0...
+Excluding removes areas...
+Excluding erasing removes areas
+Drawing paths...
+Finished drawing paths
+Generating radar level 0 complete
+
+Saving radar level 'default'...
+Saving radar level 'default' complete
+
+Generating radars complete
+
+Generating txt
+Generating txt complete
+
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 10:44:24
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 10:46:57
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 10:57:25
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 10:59:12
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 10:59:51
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:00:26
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:05:22
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:06:03
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:09:12
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 16.
+Bear in mind that meshes with more than 16 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:25:29
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 16.
+Bear in mind that meshes with more than 16 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:35:08
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 11:43:31
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:01:01
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:07:59
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:09:55
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:17:51
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:25:54
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:26:24
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:28:22
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:36:51
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 12:38:18
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 13:07:55
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/9/2023 13:14:08
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+Finished sorting the data
+
+Getting prop data...
+Finished getting prop data
+
+Number of level heights found: 1
+
+Generating radars...
+
+Generating radar level 0...
+Excluding removes areas...
+Excluding erasing removes areas
+Drawing paths...
+Finished drawing paths
+Generating radar level 0 complete
+
+Saving radar level 'default'...
+Saving radar level 'default' complete
+
+Generating radars complete
+
+Generating txt
+Generating txt complete
+
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 14:06:50
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:08:37
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:09:29
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:09:41
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:09:52
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Updating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+
+Generating settings txt 'de_placebo'
+Generating settings txt 'de_placebo' complete
+
+Generating vmat 'de_placebo'
+Generating vmat 'de_placebo' complete
+
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c
+Compiling vmat 'de_placebo' into vmat_c & creating vtex_c complete
+
+Renaming vtex_c 'de_placebo'
+Renaming vtex_c 'de_placebo' complete
+
+Creating spectate vtex_c 'de_placebo'
+Creating spectate vtex_c 'de_placebo' complete
+
+
+This process has now finished!
+
+If you'd like to support me, you can do so here:
+https://ko-fi.com/jimwood
+https://www.buymeacoffee.com/jimwood
+Thanks, and enjoy!
+
+Don't forget to close this window!
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:14:50
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:15:00
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 11/17/2023 19:15:32
+
+---- Arguments ----
+
+---- Game Configuration Values ----
+addon name: de_placebo
+content Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\panorama\images\overheadmaps\
+overviews txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\resource\overviews\
+overviews settings txt Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vmat Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\radgen\
+overviews vtex_c Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\panorama\images\overheadmaps\
+dz tablet Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\models\weapons\v_models\tablet\
+dz spawn select Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\materials\panorama\images\survival\spawnselect\
+RadGen extras Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\_radgen_extras\
+vmap Filepath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\de_placebo.vmap
+vmap Name: de_placebo
+vmap Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\maps\
+content addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_placebo\
+game addon Filepath Directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_placebo\
+
+---- Generating Overview ----
+
+Reading VMAP...
+Decoding VMAP to keyvalues2...
+VMAP decoded successfully
+
+Parsing VMAP contents...
+
+VMAP parsed successfully
+
+Fixing up main VMAP...
+Correcting overlay origins and angles...
+Finished correcting overlay origins and angles
+Finished fixing up main vmap
+Parsing prefabs...
+
+0 prefabs found in de_placebo...
+
+
+0 prefabs successfully parsed in de_placebo
+
+Finished parsing prefabs
+
+Getting required data from the main vmap and prefabs...
+Finished getting required data from the main vmap and prefabs
+
+Sorting the data...
+The higher number of vertices each mesh has, the longer this will take.
+It is also limited by the 'Max Number Of Vertices Per Mesh Face Limit' value in your radgen_config entity.
+The default value for this is 8. Currently, it is set to 8.
+Bear in mind that meshes with more than 8 vertices will be skipped.
+You can raise or lower the 'Max Number Of Vertices Per Mesh Face Limit' value, but use it with caution.
+

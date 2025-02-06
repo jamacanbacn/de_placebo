@@ -1,0 +1,157 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	"anubis.AMain.placebo" = 
+	{
+		type = "csgo_mega"
+		mixgroup = "Anubis"
+		enable_child_events = true
+		override_dsp_preset = true
+		dsp_preset = "reverb_20_outsideAlley"
+		set_child_position = false
+		distance_effect_mix = 0.0
+		use_distance_unfiltered_stereo_mapping_curve = true
+		use_time_volume_mapping_curve = true
+		restrict_source_reverb = true
+		distance_volume_mapping_curve = 
+		[
+			[
+				0.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				300.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+		soundevent_01 = 
+		[
+			"anubis.Outdoors",
+			"anubis.AMain.DistantCity",
+			"anubis.Alley.Crowd_02",
+			"anubis.Alley.DistantCity",
+			"anubis.Canals.Frog_01",
+			"anubis.Alley.Dogbarks",
+			"anubis.Canals.Water_06",
+			"anubis.Canals.Water_07",
+			"anubis.AMain.Flies_01",
+			"anubis.ASite.Smallbirds_Short_01",
+			"anubis.ASite.Waterfall_01",
+			"anubis.ASite.Waterfall_02",
+		]
+		fadetime_volume_mapping_curve = 
+		[
+			[
+				0.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				0.614939, 0.75641, -0.533563, -0.533563,
+				3.0, 1.0,
+			],
+			[
+				1.465714, 0.217949, -0.317145, -0.317145,
+				1.0, 1.0,
+			],
+			[
+				3.0, 0.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+		distance_unfiltered_stereo_mapping_curve = 
+		[
+			[
+				0.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				300.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+		time_volume_mapping_curve = 
+		[
+			[
+				0.0, 0.0, 0.0, 1.417088,
+				2.0, 1.0,
+			],
+			[
+				0.323186, 0.457983, 0.450868, 0.450868,
+				1.0, 1.0,
+			],
+			[
+				2.217943, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+	}
+	"aztec.Mid.pl" = 
+	{
+		type = "csgo_mega"
+		use_time_volume_mapping_curve = true
+		use_distance_unfiltered_stereo_mapping_curve = true
+		mixgroup = "Aztec"
+		dsp_preset = "reverb_20_outsideAlley"
+		enable_child_events = true
+		set_child_position = false
+		override_dsp_preset = true
+		reverb_wet = 1.0
+		distance_effect_mix = 0.0
+		restrict_source_reverb = true
+		volume = 0.05
+		pitch = 0.98
+		distance_volume_mapping_curve = 
+		[
+			[
+				0.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				300.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+		soundevent_01 = 
+		[
+			"aztec.Mid.Exterior",
+			"aztec.Birds",
+		]
+		fadetime_volume_mapping_curve = 
+		[
+			[
+				0.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				0.405714, 0.345588, -0.5, -0.5,
+				3.0, 1.0,
+			],
+			[
+				2.0, 0.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+		time_volume_mapping_curve = 
+		[
+			[
+				0.0, 0.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				2.0, 1.0, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+		vsnd_files_track_01 = "sounds/ambient/aztec2/swamp_exterior_01.vsnd"
+		distance_unfiltered_stereo_mapping_curve = 
+		[
+			[
+				0.0, 0.746324, 0.0, 0.0,
+				2.0, 3.0,
+			],
+			[
+				300.0, 0.757353, 0.0, 0.0,
+				2.0, 3.0,
+			],
+		]
+	}
+}
