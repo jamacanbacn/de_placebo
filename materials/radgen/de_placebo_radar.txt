@@ -1,4 +1,4 @@
-// Generated with RadGen v0.7.0
+// Generated with RadGen v1.0.0
 
 "settings"
 {
